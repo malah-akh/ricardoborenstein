@@ -1,48 +1,49 @@
 # Hi, I'm Ricardo Borenstein
 
-**AI Applied Engineer** building at the intersection of AI, databases, and infrastructure.
+**Applied AI Engineer** working where AI, automation, databases, and infrastructure meet.
 
-I work on applying AI to real-world problems — from LLM-powered applications to scalable data pipelines. Previously deep in the ScyllaDB/Cassandra ecosystem doing solutions architecture, benchmarking, and developer tooling.
+I help companies apply AI and automation to real problems, from LLM-powered assistants to workflow integrations and automated PoC deployments. My background is in solutions engineering and architecture, including customer discovery, technical evaluations, migrations, and performance troubleshooting in the ScyllaDB/Cassandra ecosystem.
+
+🌐 [Website](https://ricardoborenstein.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/ricardoborenstein)
 
 ## What I work with
 
-**AI/ML:** Python, LLMs, RAG, AI agents, prompt engineering
+**AI:** Python, OpenAI, Claude, Azure OpenAI, prompt engineering, LLM evaluation, testing, and guardrails
 
-**Databases:** ScyllaDB, Cassandra, vector databases
+**Automation & integration:** APIs, webhooks, Zapier, Make, JavaScript
 
-**Infrastructure:** Terraform, Docker, AWS, Azure, GCP
+**Databases:** ScyllaDB, Cassandra
 
-**Languages:** Python, TypeScript, Go, Lua, Scala
+**Infrastructure:** Docker, Kubernetes, Terraform, AWS, GCP, Azure, Git
 
-**Other:** Spark, real-time data, monitoring (Grafana)
+**Monitoring:** Prometheus, Grafana
 
-## What I build (behind the scenes)
+## What I build
 
-Most of my day-to-day work lives in private repos. Here's what I'm typically working on:
+Most of my day-to-day work lives in private repositories. My focus includes:
 
-- **AI agents & chatbots** — Designing multi-agent systems, conversational AI, and LLM-powered assistants for real use cases
-- **RAG & data pipelines** — Building retrieval-augmented generation systems with vector search, embeddings, and large-scale data ingestion
-- **Full-stack AI apps** — End-to-end applications with AI at the core: APIs, web frontends, and intelligent backends
-- **Internal tools & automation** — Developer tooling, workflow automation, and CI/CD pipelines that make teams move faster
+- **LLM-powered assistants:** prompt design, evaluation, testing, and guardrails for customer use cases
+- **Internal tools & automation:** workflow automation and API integrations that reduce manual work
+- **PoC automation:** customer proof-of-concept environments using Kubernetes and Terraform
 
-## Featured projects (public)
+## Selected public repositories
+
+A selection of benchmark demos, code examples, workshops, and apps available on my GitHub.
 
 | Project | Description |
-|---------|-------------|
-| [1m-ops-demo](https://github.com/malah-akh/1m-ops-demo) | Hitting 1M ops/sec with ScyllaDB — Terraform-based benchmark |
-| [football-betting-app](https://github.com/malah-akh/football-betting-app) | Champions League picks app — React, TypeScript, Tailwind |
-| [scylla-benchmark](https://github.com/malah-akh/scylla-benchmark) | Automated ScyllaDB deployment and benchmarking with Terraform |
-| [flappy-tinybird-workshop](https://github.com/malah-akh/flappy-tinybird-workshop) | Flappy Bird clone with real-time leaderboard powered by Tinybird |
-| [scylla-code-samples](https://github.com/malah-akh/scylla-code-samples) | Code samples and patterns for working with ScyllaDB |
-| [CDR-Generator](https://github.com/malah-akh/CDR-Generator) | Telecom call detail records generator based on real-world data |
+| --- | --- |
+| [1m-ops-demo](https://github.com/malah-akh/1m-ops-demo) | Terraform-based demo for running a 1M ops/sec workload against ScyllaDB Cloud |
+| [scylla-benchmark](https://github.com/malah-akh/scylla-benchmark) | ScyllaDB deployment, monitoring, and benchmarking on AWS with Terraform |
+| [scylla-code-samples](https://github.com/malah-akh/scylla-code-samples) | Usage examples and integration patterns for ScyllaDB |
+| [flappy-tinybird-workshop](https://github.com/malah-akh/flappy-tinybird-workshop) | Flappy Bird workshop with a real-time leaderboard powered by Tinybird |
+| [football-betting-app](https://github.com/malah-akh/football-betting-app) | Champions League picks and results-tracking demo app |
+| [CDR-Generator](https://github.com/malah-akh/CDR-Generator) | Synthetic telecom call detail records generator using properties derived from real-world data |
 
 ## Currently exploring
 
-- Building AI agents and multi-agent systems
-- RAG pipelines over large-scale databases
-- LLM-powered developer tools
+- AI agents for business workflows
+- Workflow automation platforms
 
 ---
 
-*Interested in collaborating or chatting about AI engineering? Open an issue or reach out.*
-
+Want to chat about AI engineering, solutions architecture, or automation? Reach out on [LinkedIn](https://www.linkedin.com/in/ricardoborenstein).
